@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+}
+
+.container {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.button {
+    height: 170px;
+    width: 170px;
+    margin: 10px;
+    border-radius: 35px;
+    border: 5px solid black;
+
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: black;
+}
